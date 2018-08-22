@@ -1,0 +1,29 @@
+# xcode noise
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# old skool
+.svn
+
+# osx noise
+.DS_Store
+profile
+
+# vim noise
+*~
+*.swp
+
+# AppCode noise
+.idea/
+
+
+# Help
+Readme.html
+Release notes.html
+
+# Release steps
+Release TODO.md
